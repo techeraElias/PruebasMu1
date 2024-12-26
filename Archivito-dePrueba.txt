@@ -1,0 +1,7 @@
+#
+#
+Esto es funcional
+#
+#
+    Cabeza                      Pecho                         Manos                     Pies
+255 255 255 255             255 255 255 255             255 255 255 255             255 255 255 255
