@@ -1,6 +1,6 @@
 #
 #
-Esto No  es funcional CRASHEA
+Esto es funcional
 #
 #
     Cabeza                      Pecho                         Manos                     Pies
